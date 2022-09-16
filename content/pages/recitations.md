@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides the schedule of recitation topics along with associated
+  handouts and data files.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
 title: Recitations
 uid: 7e552da2-1bbb-3b06-0b1a-1f26915ee2cf
+video_metadata:
+  youtube_id: null
 ---
 
 Recitation materials are courtesy of Simone Schaner, the course TA, and are used with permission.
@@ -37,7 +41,7 @@ Nonparametric regression and measurement error
 
 ({{% resource_link c6a8021d-5659-ed17-a71c-eae0f8761a99 "PDF" %}})
 
-STATA example ([DO](./resolveuid/efd8ade1abc0cce211e614351a921431))
+STATA example ({{% resource_link "efd8ade1-abc0-cce2-11e6-14351a921431" "DO" %}})
 
 
 {{< tdclose >}}
